@@ -1,3 +1,7 @@
+[Plan LC](plan-LC.pdf)
+
+-------------------------------------------
+
 [LC1 Energie chimique](LC1 Energie chimique/LC1.md)
 
 [LC2 Structure spatiale](LC2 Structure spatiale/LC2.md)
