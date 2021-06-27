@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="144" arch="Win64" script="muParser" windows="1" expand="1">
+	<window type="1" name="Table1" date="2459326.5106428" x="0" y="0" w="1521" h="878" active="1">
+		<tab rows="30" cols="9" labels="1">
+			<col name="1" type="6" num="0" prec="13" plot="0" width="150" stat="0" lname="theta 1" data="0;"/>
+			<col name="2" type="6" num="0" prec="13" plot="0" width="100" stat="0" lname="theta 0" data="65;"/>
+			<col name="3" type="6" num="0" prec="13" plot="0" width="100" stat="0" lname="theta F" data="25.8;"/>
+			<col name="4" type="6" num="0" prec="13" plot="0" width="100" stat="0" lname="c eau(l)" data="4185;"/>
+			<col name="5" type="6" num="0" prec="13" plot="0" width="100" stat="0" lname="c eau(s)" data="2100;"/>
+			<col name="6" type="6" num="0" prec="13" plot="0" width="100" stat="0" lname="m l" data="173;"/>
+			<col name="7" type="6" num="0" prec="13" plot="0" width="100" stat="0" lname="m s" data="57;"/>
+			<col name="8" type="6" num="0" prec="13" plot="0" width="100" stat="0" lname="mu" data="5;"/>
+			<col name="9" type="6" num="0" prec="13" plot="2" width="100" formula="((col(&quot;8&quot;)+col(&quot;6&quot;))/col(&quot;7&quot;))*col(&quot;4&quot;)*(col(&quot;2&quot;)-col(&quot;3&quot;))+col(&quot;5&quot;)*col(&quot;1&quot;)-col(&quot;5&quot;)*col(&quot;3&quot;)" stat="0" muparser="1" data="458122.736842105;"/>
+		</tab>
+	</window>
+</qti>
