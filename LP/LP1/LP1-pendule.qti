@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="144" arch="Win64" script="muParser" windows="1" expand="1">
+	<window type="1" name="Table1" date="2459329.9447311" x="0" y="0" w="1506" h="837" active="1">
+		<tab rows="30" cols="4" labels="3">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="150" stat="0" lname="temps" unit="s"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" lname="Amplitude" unit="deg."/>
+			<col name="3" type="6" num="0" prec="13" plot="2" width="100" stat="0"/>
+			<col name="4" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="A*exp(tau*x)sin(f*t);"/>
+		</tab>
+	</window>
+</qti>
