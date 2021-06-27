@@ -2,6 +2,8 @@
 
 [Plan LP](plan-LP.pdf)
 
+--------------------------------------------------------------------
+
 Liste des leçons
 
 [LP1-Gravitation](LP1/LP1.md)
