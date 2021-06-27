@@ -6,7 +6,7 @@ Liste des leçons
 
 [LP1-Gravitation](LP1/LP1.md)
 
-[LP1-Gravitation](LP2/LP2.md)
+[LP2-Lois de conservation en dynamique](LP2/LP2.md)
 
 [LP3-Notion de viscosité d'un fluide. Écoulements visqueux](LP3/LP3.md)
 
