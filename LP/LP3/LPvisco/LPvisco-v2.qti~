@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="144" arch="Win64" script="muParser" windows="1" expand="1">
+	<window type="1" name="Table1" date="2459380.9043982" x="101" y="179" w="1908" h="448" active="1">
+		<tab rows="30" cols="11" labels="3">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="150" stat="0" lname="Rayon" unit="m" data="0.00124;0.00174;0.002;0.00225;0.003;0.004;0.00499;0.00793;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" lname="Erreur R" unit="m" data="1e-05;1e-05;1e-05;1e-05;1e-05;1e-05;1e-05;1e-05;"/>
+			<col name="3" type="6" num="0" prec="13" plot="2" width="100" stat="0" lname="v theorique" unit="m.s-1" muparser="1" data="0.01491;0.02771;0.03603;0.0448;0.07701;0.13165;0.19766;0.43567;"/>
+			<col name="4" type="6" num="0" prec="13" plot="2" width="100" formula="col(&quot;6&quot;)*2*9,81" stat="0" lname="m" unit="kg" muparser="1" data="81;81;81;81;81;81;81;81;"/>
+			<col name="5" type="6" num="0" prec="13" plot="2" width="100" formula="col(&quot;4&quot;)/((4/3)*pi*col(&quot;1&quot;)^3)" stat="0" lname="densité bille" unit="kg/m3" muparser="1" data="10142180936.3909;3670698080.65895;2417165698.20816;1697652726.31355;716197243.913529;302145712.27602;155630521.493067;38777235.8057735;"/>
+			<col name="6" type="6" num="0" prec="13" plot="2" width="100" formula="col(&quot;1&quot;)*col(&quot;1&quot;)" stat="0" lname="Rayon carré" unit="m2" muparser="1" data="1.5376e-06;3.0276e-06;4e-06;5.0625e-06;9e-06;1.6e-05;2.49001e-05;6.28849e-05;"/>
+			<col name="7" type="6" num="0" prec="13" plot="2" width="100" stat="0" lname="erreur R^2" unit="m^2" data="2.47e-08;3.47e-08;3.99e-08;4.49e-08;5.99e-08;7.99e-08;9.98e-08;1.586e-07;"/>
+			<col name="9" type="6" num="0" prec="13" plot="2" width="100" stat="0" lname="v_lim" unit="m.s^-1" data="0.06317;0.11609;0.16009;0.19307;0.29238;0.37257;0.51115;1.00619;"/>
+			<col name="10" type="6" num="0" prec="13" plot="2" width="100" stat="0" lname="erreur v_lim" unit="m.s^-1" data="5.14608e-05;0.000227002;0.000325069;0.000948733;0.00137;0.00362;0.00582;0.01908;"/>
+			<col name="11" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="0.000312303;0.000325608;0.000327883;0.000330819;0.000332779;0.00033288;0.000331981;0.000333153;"/>
+			<col name="12" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="0.000304203;0.000313745;0.000314146;0.000315222;0.000311849;0.000304953;0.000297193;0.000277673;"/>
+		</tab>
+	</window>
+</qti>
