@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="144" arch="Win64" script="muParser" windows="13" expand="1" log="[2021-05-17 11:05:18&#9;Graphe: ''Graphe2'']&#10;Regression linéaire de données: Table1_4, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 8,0000000000000e+00 à x  = 1,2000000000000e+01&#10;&#10;Paramètre                        Valeur                              Erreur                               &#10;--------------------------------------------------------------------&#10;B (y-intercept)                  -3,8629223546505e-01  2,9167157432746e-01    &#10;A (slope)                           2,3989727635000e-01    2,8879789267648e-02    &#10;--------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 9,1325912431453e-02&#10;&#10;Statistiques                                                                         Table1_4                                                                             &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           8,3404222814373e-03                                                       &#10;RSS (Restes de la somme des carrés)                                  2,5021266844312e-02                                                       &#10;R                                                                                         9,7894564451733e-01                                                       &#10;R^2                                                                                     9,5833457491945e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,4444609989259e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  9,1325912431453e-02                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:15:33&#9;Graphe: ''Graphe2'']&#10;Regression linéaire de données: 1kg_4, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 8,0000000000000e+00 à x  = 1,2000000000000e+01&#10;&#10;Paramètre                        Valeur                              Erreur                               &#10;--------------------------------------------------------------------&#10;B (y-intercept)                  -3,8629223546505e-01  2,9167157432746e-01    &#10;A (slope)                           2,3989727635000e-01    2,8879789267648e-02    &#10;--------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 9,1325912431453e-02&#10;&#10;Statistiques                                                                         1kg_4                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           8,3404222814373e-03                                                       &#10;RSS (Restes de la somme des carrés)                                  2,5021266844312e-02                                                       &#10;R                                                                                         9,7894564451733e-01                                                       &#10;R^2                                                                                     9,5833457491945e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,4444609989259e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  9,1325912431453e-02                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:16:18&#9;Graphe: ''Graphe2'']&#10;Regression linéaire de données: 1kg_4, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 8,0000000000000e+00 à x  = 1,2000000000000e+01&#10;&#10;Paramètre                        Valeur                              Erreur                               &#10;--------------------------------------------------------------------&#10;B (y-intercept)                  -3,8629223546505e-01  2,9167157432746e-01    &#10;A (slope)                           2,3989727635000e-01    2,8879789267648e-02    &#10;--------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 9,1325912431453e-02&#10;&#10;Statistiques                                                                         1kg_4                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           8,3404222814373e-03                                                       &#10;RSS (Restes de la somme des carrés)                                  2,5021266844312e-02                                                       &#10;R                                                                                         9,7894564451733e-01                                                       &#10;R^2                                                                                     9,5833457491945e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,4444609989259e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  9,1325912431453e-02                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:16:33&#9;Graphe: ''Graphe3'']&#10;Regression linéaire de données: 2kg_4, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 8,0000000000000e+00 à x  = 1,2000000000000e+01&#10;&#10;Paramètre                        Valeur                              Erreur                               &#10;--------------------------------------------------------------------&#10;B (y-intercept)                  -4,2544074988756e-01  1,5244825916598e-01    &#10;A (slope)                           2,2244222317617e-01    1,5094626924426e-02    &#10;--------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 4,7733401511689e-02&#10;&#10;Statistiques                                                                         2kg_4                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           2,2784776198761e-03                                                       &#10;RSS (Restes de la somme des carrés)                                  6,8354328596284e-03                                                       &#10;R                                                                                         9,9316355725926e-01                                                       &#10;R^2                                                                                     9,8637385146788e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,8183180195717e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  4,7733401511689e-02                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:30:39&#9;Graphe: ''Graphe3'']&#10;Regression linéaire de données: 2kg_4, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 8,0000000000000e+00 à x  = 1,2000000000000e+01&#10;&#10;Paramètre                        Valeur                              Erreur                               &#10;--------------------------------------------------------------------&#10;B (y-intercept)                  -4,2544074988756e-01  1,5244825916598e-01    &#10;A (slope)                           2,2244222317617e-01    1,5094626924426e-02    &#10;--------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 4,7733401511689e-02&#10;&#10;Statistiques                                                                         2kg_4                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           2,2784776198761e-03                                                       &#10;RSS (Restes de la somme des carrés)                                  6,8354328596284e-03                                                       &#10;R                                                                                         9,9316355725926e-01                                                       &#10;R^2                                                                                     9,8637385146788e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,8183180195717e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  4,7733401511689e-02                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:31:01&#9;Graphe: ''Graphe3'']&#10;Regression linéaire de données: 2kg_4, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 8,0000000000000e+00 à x  = 1,2000000000000e+01&#10;&#10;Paramètre                        Valeur                              Erreur                               &#10;--------------------------------------------------------------------&#10;B (y-intercept)                  -4,2544074988756e-01  1,5244825916598e-01    &#10;A (slope)                           2,2244222317617e-01    1,5094626924426e-02    &#10;--------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 4,7733401511689e-02&#10;&#10;Statistiques                                                                         2kg_4                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           2,2784776198761e-03                                                       &#10;RSS (Restes de la somme des carrés)                                  6,8354328596284e-03                                                       &#10;R                                                                                         9,9316355725926e-01                                                       &#10;R^2                                                                                     9,8637385146788e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,8183180195717e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  4,7733401511689e-02                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:31:24&#9;Graphe: ''Graphe4'']&#10;Regression linéaire de données: 5kg_4, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 8,0000000000000e+00 à x  = 1,2000000000000e+01&#10;&#10;Paramètre                         Valeur                               Erreur                               &#10;---------------------------------------------------------------------&#10;B (y-intercept)                   -1,1686436702111e+00  2,9572997462043e-02     &#10;A (slope)                            2,2753651799332e-01     2,9281630775497e-03     &#10;---------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 9,2596646854654e-03&#10;&#10;Statistiques                                                                         5kg_4                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           8,5741390087255e-05                                                       &#10;RSS (Restes de la somme des carrés)                                  2,5722417026177e-04                                                       &#10;R                                                                                         9,9975167652785e-01                                                       &#10;R^2                                                                                     9,9950341472026e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,9933788629368e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  9,2596646854654e-03                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:47:33&#9;Graphe: ''Graphe3'']&#10;Regression linéaire de données: 2kg_4, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 8,0000000000000e+00 à x  = 1,2000000000000e+01&#10;&#10;Paramètre                        Valeur                              Erreur                               &#10;--------------------------------------------------------------------&#10;B (y-intercept)                  -4,2544074988756e-01  1,5244825916598e-01    &#10;A (slope)                           2,2244222317617e-01    1,5094626924426e-02    &#10;--------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 4,7733401511689e-02&#10;&#10;Statistiques                                                                         2kg_4                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           2,2784776198761e-03                                                       &#10;RSS (Restes de la somme des carrés)                                  6,8354328596284e-03                                                       &#10;R                                                                                         9,9316355725926e-01                                                       &#10;R^2                                                                                     9,8637385146788e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,8183180195717e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  4,7733401511689e-02                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:48:07&#9;Graphe: ''Graphe4'']&#10;Regression linéaire de données: 1kg_5, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 1,4598540145985e+00 à x  = 2,4561403508772e+00&#10;&#10;Paramètre                       Valeur                             Erreur                              &#10;------------------------------------------------------------------&#10;B (y-intercept)                 1,9598030972684e+00  9,8215502296434e-01   &#10;A (slope)                          3,9947705513808e+00  4,8090638398148e-01   &#10;------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 3,7267244366671e-01&#10;&#10;Statistiques                                                                         1kg_5                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           1,3888475026852e-01                                                       &#10;RSS (Restes de la somme des carrés)                                  4,1665425080555e-01                                                       &#10;R                                                                                         9,7894564451733e-01                                                       &#10;R^2                                                                                     9,5833457491945e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,4444609989259e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  3,7267244366671e-01                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:50:33&#9;Graphe: ''Graphe5'']&#10;Regression linéaire de données: 2kg_5, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 1,3232514177694e+00 à x  = 2,1978021978022e+00&#10;&#10;Paramètre                       Valeur                             Erreur                              &#10;------------------------------------------------------------------&#10;B (y-intercept)                 2,0227901535122e+00  5,4964922944104e-01   &#10;A (slope)                          4,4342923631307e+00  3,0090505273489e-01   &#10;------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 2,1312084625179e-01&#10;&#10;Statistiques                                                                         2kg_5                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           4,5420495107079e-02                                                       &#10;RSS (Restes de la somme des carrés)                                  1,3626148532124e-01                                                       &#10;R                                                                                         9,9316355725926e-01                                                       &#10;R^2                                                                                     9,8637385146788e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,8183180195717e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  2,1312084625179e-01                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 11:51:02&#9;Graphe: ''Graphe6'']&#10;Regression linéaire de données: 5kg_5, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 6,4724919093851e-01 à x  = 1,5521064301552e+00&#10;&#10;Paramètre                       Valeur                             Erreur                              &#10;------------------------------------------------------------------&#10;B (y-intercept)                 5,1384861741442e+00  6,5154829355057e-02   &#10;A (slope)                          4,3927164902366e+00  5,6529784099239e-02   &#10;------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 4,0685184844271e-02&#10;&#10;Statistiques                                                                         5kg_5                                                                                  &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        5                                                                                         &#10;Degrés de liberté (doF)                                                       3                                                                                         &#10;Chi^2/doF                                                                           1,6552842658125e-03                                                       &#10;RSS (Restes de la somme des carrés)                                  4,9658527974375e-03                                                       &#10;R                                                                                         9,9975167652785e-01                                                       &#10;R^2                                                                                     9,9950341472026e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,9933788629368e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  4,0685184844271e-02                                                       &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-17 12:01:00&#9;Graphe: ''Graphe7'']&#10;Regression linéaire de données: Table4_2, utilisant la fonction: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;De x  = 2,1000000000000e-01 à x  = 7,8000000000000e-01&#10;&#10;Paramètre                       Valeur                             Erreur                              &#10;------------------------------------------------------------------&#10;B (y-intercept)                 4,0092827792305e-01   6,1859642760250e-01   &#10;A (slope)                          5,9452745610758e+00  1,2225289506542e+00  &#10;------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 5,1646121010828e-01&#10;&#10;Statistiques                                                                         Table4_2                                                                             &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        3                                                                                         &#10;Degrés de liberté (doF)                                                       1                                                                                         &#10;Chi^2/doF                                                                           2,6673218154651e-01                                                       &#10;RSS (Restes de la somme des carrés)                                  2,6673218154651e-01                                                       &#10;R                                                                                         9,7950576575366e-01                                                       &#10;R^2                                                                                     9,5943154514467e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,1886309028933e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  5,1646121010828e-01                                                       &#10;------------------------------------------------------------------------------------------------------&#10;">
+	<window type="1" name="1kg" date="2459351.4551966" x="953" y="32" w="1046" h="984" active="1">
+		<tab rows="30" cols="5" labels="3">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="100" stat="0" lname="U" unit="V" data="8;9;10;11;12;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" lname="Dt" unit="s" data="9.59;7.77;6.55;6.34;5.7;"/>
+			<col name="3" type="6" num="0" prec="13" plot="2" width="186" formula="0.7/col(&quot;2&quot;)" stat="0" lname="v" unit="m/s" muparser="1" data="0.072992700729927;0.0900900900900901;0.106870229007634;0.110410094637224;0.12280701754386;"/>
+			<col name="4" type="6" num="0" prec="13" plot="1" width="206" formula="col(&quot;3&quot;)/0.05" stat="0" lname="Omega" unit="rad.s-1" muparser="1" data="1.45985401459854;1.8018018018018;2.13740458015267;2.20820189274448;2.45614035087719;"/>
+			<col name="5" type="6" num="0" prec="13" plot="2" width="44" stat="0" lname="U" unit="V" data="8;9;10;11;12;"/>
+		</tab>
+	</window>
+	<window type="3" name="Graphe1" date="2459351.4582703" x="1039" y="78" w="859" h="757" dpi="144">
+		<layout cw="843" ch="670" w="691" h="518" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="45" y="40" w="735" h="590" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" clipping="0" dataMargins="1">
+			<page x="0.0533808" y="0.0597015" w="0.871886" h="0.880597"/>
+			<title text="Titre" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="4228" fmw="50"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="67" y="90" w="691" h="518" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="1" z="21" table="1kg" x="1" y="4" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1" line="0">
+				<div from="1.4" to="2.6" step="0" maj="7" min="3" type="0"/>
+				<title text=" " color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="6"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1" line="0">
+				<div from="-500" to="500" step="0" maj="5" min="4" type="0"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1" line="0">
+				<div from="7" to="13" step="0" maj="7" min="3" type="0"/>
+				<title text=" " color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="6"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1" line="0">
+				<div from="-500" to="500" step="0" maj="5" min="4" type="0"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+			</axis>
+			<scale id="0" on="1" posmod="0" pos="2.00116054158607" percent="50" type="0" format="0" prec="6" lw="1">
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</scale>
+			<scale id="2" on="1" posmod="0" pos="10" percent="50" type="0" format="0" prec="6" lw="1">
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</scale>
+			<item type="2" x="7.38260869565217" y="2.50715667311412" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" text="\l(1)%(1)"/>
+		</tab>
+	</window>
+	<window type="1" name="2kg" date="2459351.4638983" x="110" y="103" w="845" h="641">
+		<tab rows="30" cols="5" labels="7">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="100" stat="0" lname="U" unit="V" data="8;9;10;11;12;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="10.58;8.74;7.8;6.74;6.37;"/>
+			<col name="3" type="6" num="0" prec="13" plot="2" width="217" formula="0.7/col(&quot;2&quot;)" stat="0" muparser="1" data="0.0661625708884688;0.080091533180778;0.0897435897435897;0.103857566765579;0.10989010989011;"/>
+			<col name="4" type="6" num="0" prec="13" plot="1" width="100" formula="col(&quot;3&quot;)/0.05" stat="0" lname="Omega" unit="rad.s-1" muparser="1" data="1.32325141776938;1.60183066361556;1.79487179487179;2.07715133531157;2.1978021978022;"/>
+			<col name="5" type="6" num="0" prec="13" plot="2" width="44" stat="0" lname="U" unit="V" data="8;9;10;11;12;"/>
+		</tab>
+	</window>
+	<window type="3" name="Graphe3" date="2459351.4698217" x="642" y="0" w="859" h="757" fw="2" fh="46" state="1" dpi="144" label="Régression linéraire de 2kg" title="2">
+		<layout cw="843" ch="670" w="691" h="518" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="5" y="5" w="833" h="660" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.0059312" y="0.00746269" w="0.988138" h="0.985075"/>
+			<title text="Titre" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="4228" fmw="50"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="67" y="90" w="691" h="518" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="2" z="21" table="2kg" x="1" y="4" from="0" to="-1" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="8" to="12" points="2" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="0.222442223176166"/>
+				<param name="B" val="-0.425440749887555"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="1.2" to="2.4" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="7" to="13" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" x="7.08695652173913" y="2.37678916827853" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+			<filter type="0" inCrv="0" from="8" to="12" outCrv="1" points="2" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="0" chi2="0.00683543285962836" func="1" pasteResults="0">
+				<parameter name="B" val="-0.425440749887555" explain="y-intercept" err="0.0232404717227364"/>
+				<parameter name="A" val="0.222442223176166" explain="slope" err="0.000227847761987612"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="1" name="5kg" date="2459351.4712812" x="-2" y="36" w="964" h="596">
+		<tab rows="30" cols="5" labels="3">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="46" stat="0" lname="U" unit="V" data="8;9;10;11;12;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="21.63;15.9;12.64;10.4;9.02;"/>
+			<col name="3" type="6" num="0" prec="13" plot="2" width="219" formula="0.7/col(&quot;2&quot;)" stat="0" muparser="1" data="0.0323624595469256;0.0440251572327044;0.055379746835443;0.0673076923076923;0.0776053215077605;"/>
+			<col name="4" type="6" num="0" prec="13" plot="1" width="222" formula="col(&quot;3&quot;)/0.05" stat="0" lname="Omega" unit="rad.s-1" muparser="1" data="0.647249190938511;0.880503144654088;1.10759493670886;1.34615384615385;1.55210643015521;"/>
+			<col name="5" type="6" num="0" prec="13" plot="2" width="44" stat="0" lname="U" unit="V" data="8;9;10;11;12;"/>
+		</tab>
+	</window>
+	<window type="3" name="Graphe4" date="2459351.4917436" x="0" y="0" w="854" h="757" fw="2" fh="46" state="1" dpi="144" label="Régression linéraire de 1kg" title="2">
+		<layout cw="838" ch="670" w="691" h="518" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="5" y="5" w="828" h="660" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.00596659" y="0.00746269" w="0.988067" h="0.985075"/>
+			<title text="Titre" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="4228" fmw="50"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="62" y="90" w="691" h="518" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="2" z="21" table="1kg" x="4" y="5" from="0" to="-1" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="1.45985401459854" to="2.45614035087719" points="2" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="3.99477055138084"/>
+				<param name="B" val="1.95980309726839"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="7" to="13" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="1.4" to="2.6" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" x="1.41739130434783" y="12.8839458413927" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+			<filter type="0" inCrv="0" from="1.45985401459854" to="2.45614035087719" outCrv="1" points="2" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="0" chi2="0.416654250805546" func="1" pasteResults="0">
+				<parameter name="B" val="1.95980309726839" explain="y-intercept" err="0.964628489134076"/>
+				<parameter name="A" val="3.99477055138084" explain="slope" err="0.231270950154142"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="1" name="Table1" date="2459351.4917474" x="854" y="0" w="640" h="480" state="1" label="Régression linéraire de 1kg" title="2">
+		<tab rows="1" cols="5" labels="0">
+			<col name="Colonne" type="1" format="" plot="1" width="108" stat="0" data="1kg_5;"/>
+			<col name="Pente" type="6" num="0" prec="13" plot="2" width="142" stat="0" data="3.99477055138084;"/>
+			<col name="Intersection" type="6" num="0" prec="13" plot="2" width="142" stat="0" data="1.95980309726839;"/>
+			<col name="Chi^2" type="6" num="0" prec="13" plot="2" width="152" stat="0" data="0.416654250805546;"/>
+			<col name="R^2" type="6" num="0" prec="13" plot="2" width="152" stat="0" data="0.958334574919445;"/>
+		</tab>
+	</window>
+	<window type="3" name="Graphe5" date="2459351.493439" x="0" y="0" w="854" h="757" fw="2" fh="46" state="1" dpi="144" label="Régression linéraire de 2kg" title="2">
+		<layout cw="838" ch="670" w="691" h="518" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="5" y="5" w="828" h="660" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.00596659" y="0.00746269" w="0.988067" h="0.985075"/>
+			<title text="Titre" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="4228" fmw="50"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="62" y="90" w="691" h="518" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="2" z="21" table="2kg" x="4" y="5" from="0" to="-1" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="1.32325141776938" to="2.1978021978022" points="2" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="4.43429236313066"/>
+				<param name="B" val="2.0227901535122"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="7" to="13" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="1.2" to="2.4" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" x="1.21739130434783" y="12.8839458413927" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+			<filter type="0" inCrv="0" from="1.32325141776938" to="2.1978021978022" outCrv="1" points="2" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="0" chi2="0.136261485321237" func="1" pasteResults="0">
+				<parameter name="B" val="2.0227901535122" explain="y-intercept" err="0.302114275425126"/>
+				<parameter name="A" val="4.43429236313066" explain="slope" err="0.0905438507613848"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="1" name="Table2" date="2459351.493441" x="854" y="0" w="640" h="480" state="1" label="Régression linéraire de 2kg" title="2">
+		<tab rows="1" cols="5" labels="0">
+			<col name="Colonne" type="1" format="" plot="1" width="108" stat="0" data="2kg_5;"/>
+			<col name="Pente" type="6" num="0" prec="13" plot="2" width="142" stat="0" data="4.43429236313066;"/>
+			<col name="Intersection" type="6" num="0" prec="13" plot="2" width="142" stat="0" data="2.0227901535122;"/>
+			<col name="Chi^2" type="6" num="0" prec="13" plot="2" width="152" stat="0" data="0.136261485321237;"/>
+			<col name="R^2" type="6" num="0" prec="13" plot="2" width="152" stat="0" data="0.986373851467876;"/>
+		</tab>
+	</window>
+	<window type="3" name="Graphe6" date="2459351.4937678" x="102" y="105" w="854" h="757" dpi="144" label="Régression linéraire de 5kg" title="2">
+		<layout cw="838" ch="670" w="691" h="518" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="5" y="5" w="828" h="660" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.00596659" y="0.00746269" w="0.988067" h="0.985075"/>
+			<title text="Titre" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="4228" fmw="50"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="62" y="90" w="691" h="518" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="2" z="21" table="5kg" x="4" y="5" from="0" to="-1" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="0.647249190938511" to="1.55210643015521" points="2" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="4.39271649023661"/>
+				<param name="B" val="5.13848617414416"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="7" to="13" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0.6" to="1.6" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" x="0.614492753623188" y="12.8839458413927" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+			<filter type="0" inCrv="0" from="0.647249190938511" to="1.55210643015521" outCrv="1" points="2" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="0" chi2="0.00496585279743747" func="1" pasteResults="0">
+				<parameter name="B" val="5.13848617414416" explain="y-intercept" err="0.00424515178828657"/>
+				<parameter name="A" val="4.39271649023661" explain="slope" err="0.00319561649030655"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="1" name="Table3" date="2459351.4937714" x="854" y="32" w="640" h="480" label="Régression linéraire de 5kg" title="2">
+		<tab rows="1" cols="5" labels="0">
+			<col name="Colonne" type="1" format="" plot="1" width="108" stat="0" data="5kg_5;"/>
+			<col name="Pente" type="6" num="0" prec="13" plot="2" width="142" stat="0" data="4.39271649023661;"/>
+			<col name="Intersection" type="6" num="0" prec="13" plot="2" width="142" stat="0" data="5.13848617414416;"/>
+			<col name="Chi^2" type="6" num="0" prec="13" plot="2" width="172" stat="0" data="0.00496585279743747;"/>
+			<col name="R^2" type="6" num="0" prec="13" plot="2" width="152" stat="0" data="0.999503414720256;"/>
+		</tab>
+	</window>
+	<window type="1" name="Table4" date="2459351.500331" x="365" y="0" w="355" h="448">
+		<tab rows="30" cols="2" labels="0">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="100" stat="0" data="0.21;0.34;0.78;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="1.96;2.02;5.13;"/>
+		</tab>
+	</window>
+	<window type="1" name="Table5" date="2459351.5006987" x="1565" y="32" w="640" h="480" label="Régression linéraire de Table4" title="2">
+		<tab rows="1" cols="5" labels="0">
+			<col name="Colonne" type="1" format="" plot="1" width="108" stat="0" data="Table4_2;"/>
+			<col name="Pente" type="6" num="0" prec="13" plot="2" width="142" stat="0" data="5.94527456107583;"/>
+			<col name="Intersection" type="6" num="0" prec="13" plot="2" width="142" stat="0" data="0.400928277923048;"/>
+			<col name="Chi^2" type="6" num="0" prec="13" plot="2" width="152" stat="0" data="0.266732181546507;"/>
+			<col name="R^2" type="6" num="0" prec="13" plot="2" width="152" stat="0" data="0.959431545144666;"/>
+		</tab>
+	</window>
+</qti>
