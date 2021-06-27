@@ -1,7 +1,8 @@
 # ressources.montrouge
 Ressources de la preparation à l'agregation de physique de Montrouge
 
-test
+Raphael Aeschlimann
+
 
 
 [Leçon de physique](LP/LP.md)
