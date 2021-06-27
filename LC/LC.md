@@ -1,6 +1,10 @@
+# Leçons de chimies
+
 [Plan LC](plan-LC.pdf)
 
 -------------------------------------------
+
+Liste des leçons
 
 [LC1 Energie chimique](LC1 Energie chimique/LC1.md)
 
