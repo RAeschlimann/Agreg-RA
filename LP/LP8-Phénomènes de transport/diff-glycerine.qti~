@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="144" arch="Win64" script="muParser" windows="3" expand="1" log="[2021-05-25 14:20:30&#9;Graphe: ''Graphe1'']&#10;Ajustement non-linéaire de données: Table2_2, utilisant la fonction: a/sqrt(x+t0)&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Levenberg-Marquardt Normalisé algorithme avec une tolérence de 0,0001&#10;De x  = 0,0000000000000e+00 à x  = 1,0900000000000e+02&#10;&#10;Paramètre                       Valeur                             Erreur                              &#10;------------------------------------------------------------------&#10;a                                      4,1576590278407e+01  7,4251032359285e+01  &#10;t0                                    6,0300872324667e+01  2,6867371726526e+02  &#10;------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 6,4044902518620e+00&#10;&#10;Statistiques                                                                         Table2_2                                                                             &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        16                                                                                       &#10;Degrés de liberté (doF)                                                       14                                                                                       &#10;Chi^2/doF                                                                           4,1017495386196e+01                                                      &#10;RSS (Restes de la somme des carrés)                                  5,7424493540674e+02                                                      &#10;R                                                                                         nan                                                                                      &#10;R^2                                                                                     -1,1495852200710e+01                                                    &#10;Coefficient R^2 ajusté                                                        -1,2388413072190e+01                                                    &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  6,4044902518620e+00                                                      &#10;Nombre d'itérations                                                            2                                                                                         &#10;État                                                                                     singularity or extremely bad function behavior detected   &#10;------------------------------------------------------------------------------------------------------&#10;[2021-05-25 14:33:22&#9;Graphe: ''Graphe1'']&#10;Ajustement non-linéaire de données: Table2_2, utilisant la fonction: a/sqrt(x+t0)&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Levenberg-Marquardt Normalisé algorithme avec une tolérence de 0,0001&#10;De x  = 1,0000000000000e-01 à x  = 1,0900000000000e+02&#10;&#10;Paramètre                       Valeur                             Erreur                              &#10;------------------------------------------------------------------&#10;a                                      7,9566322851467e+01  1,0943111773991e+00  &#10;t0                                    3,7348090535723e+01  1,3720115626789e+00  &#10;------------------------------------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 1,4342954613429e-01&#10;&#10;Statistiques                                                                         Table2_2                                                                             &#10;------------------------------------------------------------------------------------------------------&#10;N (Données)                                                                        16                                                                                       &#10;Degrés de liberté (doF)                                                       14                                                                                       &#10;Chi^2/doF                                                                           2,0572034704288e-02                                                       &#10;RSS (Restes de la somme des carrés)                                  2,8800848586004e-01                                                       &#10;R                                                                                         9,9686147167439e-01                                                       &#10;R^2                                                                                     9,9373279370882e-01                                                       &#10;Coefficient R^2 ajusté                                                        9,9328513611660e-01                                                       &#10;RMSE (La racine carrée moyenne des carrés des erreurs)  1,4342954613429e-01                                                       &#10;Nombre d'itérations                                                            4                                                                                         &#10;État                                                                                     success                                                                               &#10;------------------------------------------------------------------------------------------------------&#10;">
+	<window type="1" name="Table1" date="2459358.6909149" x="0" y="0" w="746" h="662">
+		<tab rows="30" cols="3" labels="3">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="100" stat="0" lname="t" unit="s"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" lname="d_max" unit="cm"/>
+			<col name="3" type="6" num="0" prec="13" plot="2" width="100" formula="(0.5*(1.47-1.33)*2)/(2*sqrt(pi*1))" stat="0" muparser="1" data="0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;0.0394932708483429;"/>
+		</tab>
+	</window>
+	<window type="1" name="Table2" date="2459359.483914" x="746" y="0" w="1086" h="816" active="1">
+		<tab rows="30" cols="6" labels="0">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="100" stat="0" data="0.1;2;5;8;9.5;11;13.5;16;20;23.5;27;31.5;36.5;41;73;109;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="13.1;12.75;12.25;11.85;11.55;11.45;11.1;10.9;10.5;10.1;9.85;9.5;9.2;8.9;7.5;7.05;"/>
+			<col name="3" type="6" num="0" prec="13" plot="1" width="100" stat="0"/>
+			<col name="4" type="6" num="0" prec="13" plot="2" width="100" stat="0"/>
+			<col name="5" type="6" num="0" prec="13" plot="2" width="100" stat="0" data=";;;;;;;;;;;;;;;;;;;;;186;"/>
+			<col name="6" type="6" num="0" prec="13" plot="2" width="100" stat="0" data=";;;;;;;;;;;;;;;;;;;;6.45;5.1;"/>
+		</tab>
+	</window>
+	<window type="3" name="Graphe1" date="2459359.5996975" x="2" y="-92" w="854" h="757" dpi="144">
+		<layout cw="838" ch="670" w="691" h="518" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="5" y="5" w="828" h="660" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.00596659" y="0.00746269" w="0.988067" h="0.985075"/>
+			<title text="Titre" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="4228" fmw="50"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="62" y="90" w="691" h="518" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="2" z="21" table="Table2" x="1" y="2" from="0" to="-1" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="utilisateur1Ajustement1" f="0" y="a/sqrt(x+t0)" from="0.1" to="109" points="100" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="a" val="79.5663228514673"/>
+				<param name="t0" val="37.3480905357233"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="6" to="14" step="0" maj="9" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-20" to="120" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,8,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" x="-17.9710144927536" y="14.825918762089" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,8,-1,5,50,0,0,0,0,0" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+			<filter type="11" inCrv="0" from="0.1" to="109" outCrv="1" points="100" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" alg="0" sclErr="1" chi2="0.288008485860039" func="1" pasteResults="0" model="utilisateur1" form="a/sqrt(x+t0)">
+				<parameter name="a" val="79.5663228514673" err="58.2109144863015"/>
+				<parameter name="t0" val="37.3480905357233" err="91.5036239819397"/>
+			</filter>
+		</tab>
+	</window>
+</qti>
